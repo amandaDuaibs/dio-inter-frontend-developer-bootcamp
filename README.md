@@ -5,3 +5,4 @@
 ### [Contador](https://github.com/amandaDuaibs/dio-inter-frontend-developer-bootcamp/tree/main/dio-contador)
 ### [Calculadora](https://github.com/amandaDuaibs/dio-inter-frontend-developer-bootcamp/tree/main/dio-calculadora)
 ### [Palindromo e Arrays](https://github.com/amandaDuaibs/dio-inter-frontend-developer-bootcamp/tree/main/dio-palindromo) 
+### [APi-Cats](https://github.com/amandaDuaibs/dio-inter-frontend-developer-bootcamp/tree/main/dio-cats)
