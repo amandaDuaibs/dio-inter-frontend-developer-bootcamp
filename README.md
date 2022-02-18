@@ -6,3 +6,4 @@
 ### [Calculadora](https://github.com/amandaDuaibs/dio-inter-frontend-developer-bootcamp/tree/main/dio-calculadora)
 ### [Palindromo e Arrays](https://github.com/amandaDuaibs/dio-inter-frontend-developer-bootcamp/tree/main/dio-palindromo) 
 ### [APi-Cats](https://github.com/amandaDuaibs/dio-inter-frontend-developer-bootcamp/tree/main/dio-cats)
+### [Conta Bancária - classes](https://github.com/amandaDuaibs/dio-inter-frontend-developer-bootcamp/tree/main/dio-conta%20branc%C3%A1ria)
